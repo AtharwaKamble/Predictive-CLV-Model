@@ -49,6 +49,3 @@ BG/NBD model can only be able to predict the future transactions and churn rate 
 2. Average transaction value varies across customers but do not vary over time for any given customer.
 
 3. The distribution of average transaction values across customers is independent of the transaction process.
-
-
-BG/NBD model can only be able to predict the future transactions and churn rate of a customer. It is then combined with the Gamma-Gamma model, which adds the monetary aspect of the customer transaction and we finally get the customer lifetime value (CLV).
